@@ -1,5 +1,7 @@
 # WomenInSoftwareDev
 
+![WomenInSoftwareDev](wisd-logo-narrow.jpg)
+
 ## About 
 
 ### I created **WomenInSoftwareDev** — an open-source project dedicated primarily to software developers and hands-on programmers.
