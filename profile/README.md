@@ -2,7 +2,13 @@
 
 ## About 
 
-The **WomenInSoftwareDev** GitHub organization is dedicated to supporting and showcasing the work of women in software development and engineering. Our mission is to foster a community where women in tech can share knowledge, inspire one another, and collaborate on open-source projects.
+### I created **WomenInSoftwareDev** — an open-source project dedicated primarily to software developers and hands-on programmers.
+
+The phrase ‘Women in Tech’ often encompasses a wide range of digital and real-life tech roles, making it challenging to identify which fields are truly represented. 
+
+While the website includes a submenu highlighting other fields, the primary focus is on celebrating and supporting women who are deeply involved in programming. 
+
+**WomenInSoftwareDev** offers a space where women in software development can connect, share knowledge, inspire one another, and collaborate on open-source projects.
 
 ## Projects
 
