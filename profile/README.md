@@ -22,7 +22,7 @@ We welcome contributors of all experience levels! Here’s how you can get invol
 
 ### Join the Community
 
-- Follow us on social media: [Twitter](https://twitter.com/example-link), [LinkedIn](https://linkedin.com/example-link)
+- Follow us on social media: [Twitter](https://twitter.com/example-link), [LinkedIn](https://www.linkedin.com/company/womeninsoftwaredev)
 
 ### Submit Your Profile
 
